@@ -1,0 +1,5 @@
+a=int(input("bir sayı giriniz:"))
+b=int(input("bir sayı giriniz:"))
+print(a,b)
+(a,b)=(b,a)
+print(a,b)
